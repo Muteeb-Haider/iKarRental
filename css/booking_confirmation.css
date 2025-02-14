@@ -1,0 +1,40 @@
+.content {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.content .icon {
+    font-size: 100px;
+    color: #f0a500;
+}
+
+.content .icon_w {
+    font-size: 100px;
+    color: #ff3b30;
+}
+
+.content h1 {
+    font-size: 36px;
+    margin: 20px 0;
+}
+
+.content p {
+    font-size: 16px;
+    color: #b0b0b0;
+}
+
+.content .btn {
+    text-decoration: none;
+    background-color: #f0a500;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.content .btn:hover {
+    background-color: #e09e00;
+}

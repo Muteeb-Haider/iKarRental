@@ -1,0 +1,16 @@
+{
+    "6778acea6d683": {
+        "fullname": "Muteeb Haider",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$12$mR0Krt51OXws.nQFGlkZxeXxJ35Q0UWW5UYRqHEGnJLvuBGQ6pIZ.",
+        "is_admin": true,
+        "id": "6778acea6d683"
+    },
+    "6778ad1bdfe49": {
+        "fullname": "muteeb",
+        "email": "agbw8l@INF.ELTE.HU",
+        "password": "$2y$12$hwQfBpMt10KFj6m20c639eMGcfiETbFY1s0OmrXsoQjjHm3O3kxIe",
+        "is_admin": false,
+        "id": "6778ad1bdfe49"
+    }
+}
